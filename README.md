@@ -63,26 +63,6 @@ YOLO Model:
 - Recall: [YOLO Recall Value]
 - F1-Score: [YOLO F1-Score Value]
 
-Usage
------
-To use the models, follow these steps:
-
-SVM Model:
-1. Clone the repository:
-   git clone https://github.com/yourusername/object-classification-model.git
-2. Install the required dependencies:
-   pip install -r requirements.txt
-3. Run the SVM model on new images:
-   python svm_classify.py --image_path path_to_image
-
-YOLO Model:
-1. Clone the repository:
-   git clone https://github.com/yourusername/object-classification-model.git
-2. Install the required dependencies:
-   pip install -r requirements.txt
-3. Run the YOLO model on new images:
-   python yolo_detect.py --image_path path_to_image
-
 Contributing
 ------------
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
